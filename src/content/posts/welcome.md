@@ -8,7 +8,7 @@ draft: false
 ---
 
 ### my infomation:
-* age: 13
+* age: please 😭
 * "job": designer and developer
 * real name: Nguyen Cao An Tuong (dont ask me with real name, just say ncqtt or ncatt)
 * devices: samsung a32 4g, hp pavilion x360 (windows 10 iot)
