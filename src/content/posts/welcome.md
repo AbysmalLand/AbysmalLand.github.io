@@ -16,10 +16,8 @@ draft: false
 
 ### well, this is all of my pages:
 * pages:
-  * [kernel releases page](https://ncqtt.github.io/kernel)
-  * [file viewer](https://ncqtt.github.io/viewer) (jst do 4 fun)
-  * [identicons](https://ncqtt.github.io/identicons)
-  * [this page](https://ncqtt.github.io/)
+  * [kernel releases page](https://adeepsleep.github.io/kernel)
+  * [this page](https://adeepsleep.github.io/)
 * orgs:
   * [damattrang](https://github.com/damattrang)
   * [moondrugs](https://github.com/moondrugs)
